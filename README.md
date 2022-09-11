@@ -37,7 +37,7 @@ Users can delete transactions in their history if they made an error.
 in order to make this application run seamlessly. I learnt how to make for adding and deleting transactions. 
 
 **How might I improve:** Making more comments aroud the code to show my understanding. Redeploy this React web application again from my 
-Visual Studios Code software so that code can be seen by public.       
+Visual Studios Code software so that all of my code can be seen by public.       
 
 
 <!--# React-App-Expense-Tracker
